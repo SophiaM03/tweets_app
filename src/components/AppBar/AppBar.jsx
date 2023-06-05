@@ -63,7 +63,7 @@ function AppBar() {
             variant="h6"
             noWrap
             component="a"
-            href="/"
+            href="/tweets_app"
             sx={{
               mr: 2,
               display: { xs: 'none', md: 'flex' },
