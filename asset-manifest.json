@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tweets_app/static/css/main.3ce9efef.css",
-    "main.js": "/tweets_app/static/js/main.c13dfd0f.js",
+    "main.js": "/tweets_app/static/js/main.9e61321b.js",
     "static/media/background.png": "/tweets_app/static/media/background.38ea3189a2c780f4bbbf.png",
     "index.html": "/tweets_app/index.html",
     "main.3ce9efef.css.map": "/tweets_app/static/css/main.3ce9efef.css.map",
-    "main.c13dfd0f.js.map": "/tweets_app/static/js/main.c13dfd0f.js.map"
+    "main.9e61321b.js.map": "/tweets_app/static/js/main.9e61321b.js.map"
   },
   "entrypoints": [
     "static/css/main.3ce9efef.css",
-    "static/js/main.c13dfd0f.js"
+    "static/js/main.9e61321b.js"
   ]
 }
